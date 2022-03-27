@@ -1,0 +1,3 @@
+# npm i sequelize --> instala as dependencias da biblioteca sequelize
+# npm i express -->   instala as dependencias da biblioteca express
+# npx Sequelize Init --> cria um modelo de pastas para usar o sequelize 
